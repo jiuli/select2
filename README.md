@@ -1,9 +1,17 @@
 # How to use
 
 ```html
+<link href="/select2/select2.min.css" rel="stylesheet" />
+
+...................
+...................
+
+<script type="text/javascript" src="/select2/select2.min.js"></script>
+<script type="text/javascript" src="/select2/i18n/zh-CN.js"></script>
 <select id="select_id">
    
 </select>
+
 ```
 You need script like this:
 ```javascript

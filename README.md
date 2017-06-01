@@ -18,6 +18,7 @@ You need script like this:
 <script>
  
 #1. added maximumDisplayOptionsLength options in select2
+# format of data_info: [{"id":"100","text":"JasonLi","code":"li"},{"id":"101","text":"Tomas","code":"tt"}]
 
 	$('#select_id').select2({
     		data:data_info,
